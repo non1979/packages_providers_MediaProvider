@@ -15,6 +15,6 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <string name="ask_scan_title">Nach neuen Medien suchen?</string>
-  <string name="ask_scan_text">Klicken, um Mediensuche manuell auszulösen</string>
+  <string name="ask_scan_title">¿Buscar medios nuevos?</string>
+  <string name="ask_scan_text">Toca para iniciar la búsqueda de medios</string>
 </resources>
