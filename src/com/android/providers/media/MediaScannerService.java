@@ -272,6 +272,7 @@ public class MediaScannerService extends Service implements Runnable
                         // scan internal media storage
                         directories = new String[] {
                                 Environment.getRootDirectory() + "/media",
+                                Environment.getOemDirectory() + "/media",
                         };
                     }
                     else if (MediaProvider.EXTERNAL_VOLUME.equals(volume)) {
